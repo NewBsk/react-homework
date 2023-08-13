@@ -66,4 +66,6 @@ export default ClickedHeartIcon;
 <img src="/mission01/mission01.gif>
 
 <br>
+
+<br>
 #### 과제 회고: 혼자 구현해 보고싶어서 무리하다가 시간을 많이 소모했고 결국 작성해주신 코드와 검색을 통해 힌트를 많이 얻어서 구현했습니다. 그리고 이번에는 실패했지만 기회가 된다면 좋아요 갯수 까지 구현해보고 싶었는데 좀 더 학습해서 isClicked 값이 false면 0개 true면 1개가 되는것까지 문자열이 아닌 리액트로 구현해 보고 싶습니다.
