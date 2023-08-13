@@ -50,6 +50,10 @@ const HeartIcon = () => {
 export default HeartIcon;
 ```
 
+<<<<<<< HEAD
+=======
+```
+>>>>>>> e1640a1275ade476368e32b85be89b611624c3de
 ```jsx
 // ClickedHeartIcon 컴포넌트
 import clickedHeart from "../assets/clickedHeart.svg";
@@ -63,6 +67,10 @@ const ClickedHeartIcon = () => {
 };
 
 export default ClickedHeartIcon;
+<<<<<<< HEAD
+=======
+
+>>>>>>> e1640a1275ade476368e32b85be89b611624c3de
 ```
 
 <br>
