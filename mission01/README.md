@@ -61,7 +61,8 @@ export default ClickedHeartIcon;
 ````
 
 <br>
-8. 구현 결과
+7. 구현 결과
+<br>
 <img src="/mission01/mission01.gif>
 
 <br>
