@@ -43,7 +43,7 @@ return (
 
 export default HeartIcon;
 
-````
+```
 ```jsx
 // ClickedHeartIcon 컴포넌트
 import clickedHeart from "../assets/clickedHeart.svg";
@@ -58,7 +58,7 @@ const ClickedHeartIcon = () => {
 
 export default ClickedHeartIcon;
 
-````
+```
 
 <br>
 7. 구현 결과
